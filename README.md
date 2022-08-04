@@ -5,7 +5,7 @@
 <div>
   <lu>
     <li>🔭 Trabalhando com front-end</li>
-    <li>🌱 Aprendendo Vue.JS</li>
+    <li>🌱 Aprendendo React.JS</li>
     <li>📫 contato: andrei.s.pereira.ibi@gmail.com</li>
   </lu>
 <div>
