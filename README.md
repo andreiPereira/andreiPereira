@@ -4,9 +4,9 @@
 
 <div>
   <lu>
-    <li>🔭 Trabalhando com front-end</li>
-    <li>🌱 Aprendendo React.JS</li>
-    <li>📫 contato: andrei.s.pereira.ibi@gmail.com</li>
+    <li>💻  Front-end Developer</li>
+    <li>🌱 Focused on React.js</li>
+    <li>🧑‍🎓  UX/Ui graduated</li>
   </lu>
 <div>
   
