@@ -1,41 +1,27 @@
-## Bem vindo(a) ao meu Parque de Diversões !
-
-<br>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-<br>
-<p align="left"> 
-  Olá, Sou Andrei Pereira, focado em <strong>JavaScript</strong>.<br>
-  com algum conhecimento em PHP, PostgreSQL, Symfony, Sonata, HTML, CSS ...
-</p>
-<br>
-<p align="left">
-  💻  Front-end Developer
+<p align="center">
+    ‹ Este perfil só funciona no tema escuro do GitHub ›
 </p>
 
-<p align="left">
-  🌱 Focused on React.js
-</p>
 <br>
-<p align="left">
+    <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
+    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+Andrei+Pereira!;Seja+bem-vindo(a)+ao+meu+perfil."/>
+<br>
 
-  <a href="https://www.linkedin.com/in/andrei-pereira-6b632921a/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+<br><br><br>
 
-</p>
+```zsh
+> btop
+```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiPereira&layout=compact)
-
-## 🚀 Minhas Skills
- 
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" alt="php"/></code>
+<a href="#"><img align="left" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="20%"/> 
 
 
+```lua
+andreiPereira@GitHub
+▔▔▔▔▔▔▔▔▔
+OS: CachyOS x86_64
+Shell: Konsole Terminal
+Location: Brasil — Rio Grande do Sul
+Languages: JavaScript, PHP, lua
+Hobbies: Building modern, responsive websites, Playing games
+```
